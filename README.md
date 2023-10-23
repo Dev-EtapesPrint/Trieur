@@ -10,7 +10,7 @@ Le programme **trieur.py** parcourt tous les fichiers présents dans le dossier 
 
 ### Classement de retour
 
-Une fois que le programme a terminé le triage des fichiers, tous les fichiers sont classés par extensin dans un dossier distinct. 
+Une fois que le programme a terminé le triage des fichiers, tous les fichiers sont classés par extensin dans un dossier distinct.
 
 ### Déclassement des fichiers
 
